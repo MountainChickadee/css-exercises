@@ -1,0 +1,18 @@
+p {
+    background-color: #eb88be;
+    font-family: Verdana, dejaVu Sans, sans-serif;
+}
+
+.special_size {
+    font-size: 24px;
+}
+
+#two {
+    color: #1c1cc4;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: 800;
+}
